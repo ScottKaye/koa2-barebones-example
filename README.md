@@ -1,10 +1,10 @@
 # Koa2 Barebones Example
 
 ## Production
-Run `webpack` to transpile `server.js` to the `bin/` folder, then run `node bin/server` in production.
+Run `webpack` to transpile `main.js` to the `bin/` folder, then run `node bin/prod` in production.
 
 ## Development
-Run `node server` to launch `server.js` with `babel-register` and `babel-polyfill` processing each request.  
+Run `node dev` to launch `dev.js` with `babel-register` and `babel-polyfill` processing each request.  
 
 ------
 

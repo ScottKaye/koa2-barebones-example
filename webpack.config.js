@@ -16,7 +16,7 @@ module.exports = {
 		"./main.js"
 	],
 	output: {
-		filename: "bin/server.js"
+		filename: "bin/prod.js"
 	},
 	externals: mods,
 	module: {

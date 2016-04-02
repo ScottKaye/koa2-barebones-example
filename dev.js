@@ -1,4 +1,4 @@
-// Main entrypoint
+// Main development entrypoint
 // This file basically exists purely to set up babel-register for future includes
 
 "use strict";
@@ -8,5 +8,4 @@ require("babel-register")({
 });
 
 require("babel-polyfill");
-
 require("./main");
