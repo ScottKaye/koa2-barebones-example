@@ -19,11 +19,5 @@
     "koa": "^2.0.0",
     "koa-router": "^7.0.1",
     "webpack": "^1.12.14"
-  },
-  "babel": {
-    "presets": [
-      "es2015",
-      "stage-0"
-    ]
   }
 }
