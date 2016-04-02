@@ -1,4 +1,6 @@
-# Koa2 Barebones Production Example
+# Koa2 Barebones Example
+
+> I shouldn't say *production*, really, since you probably wouldn't want to run `babel-register` in production.  The other route (for production) is to pre-transpile your application with babel outside of a node process as if it were meant for the browser, then have node run that.
 
 This is a very small example to show the minimum amount of code you'll need to get up and running with Koa2, right now.
 
